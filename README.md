@@ -6,7 +6,7 @@ I am a Middle student right now and a self-taught programmer. I have been progra
 
 🌍 I'm based in Czech Republic
 
-🚀 Currently learning Next.js
+🚀 Currently learning Node.js & Rust
 
 🤝 Open to collaborating on JS projects.
 
