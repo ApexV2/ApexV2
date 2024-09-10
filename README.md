@@ -13,4 +13,4 @@ I am a Middle student right now and a self-taught programmer. I have been progra
 ![Profile views](https://komarev.com/ghpvc/?username=ApexV2&color=blue)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApexV2)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ApexV2&show_icons=true&theme=radical)
