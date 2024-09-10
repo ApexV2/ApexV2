@@ -5,6 +5,7 @@
 I am a Middle student right now and a self-taught programmer. I have been programming for more than 2 years now, and I've worked on many projects using Python, JavaScript, and other languages. Currently, I am learning about Node.js and Rust, also exploring some design stuff too.
 
 🌍 I'm based in Czech Republic
-📫 You can contact me at [Your Email]
+
 🚀 Currently learning Next.js
+
 🤝 Open to collaborating on JS projects.
