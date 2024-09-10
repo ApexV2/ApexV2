@@ -1,4 +1,4 @@
-[![My Skills](https://skillicons.dev/icons?i=js,html,svelte,css,python,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,js,html,svelte,css,python,rust)](https://skillicons.dev)
 
 # Hi 👋 My name is ApexV2
 ### Middle Schooler and Programmer
