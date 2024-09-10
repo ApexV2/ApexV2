@@ -9,3 +9,5 @@ I am a Middle student right now and a self-taught programmer. I have been progra
 🚀 Currently learning Next.js
 
 🤝 Open to collaborating on JS projects.
+
+![Profile views](https://komarev.com/ghpvc/?username=ApexV2&color=blue)
