@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm ApexV2</h1>
 <h3 align="center">A passionate fullstack developer from Czechia</h3>
+### Middle Schooler and Programmer
+I am a Middle student right now and a self-taught programmer. I have been programming for more than 2 years now, and I've worked on many projects using Python, JavaScript, and other languages. Currently, I am learning about Node.js and Rust, also exploring some design stuff too.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apexv2&label=Profile%20views&color=0e75b6&style=dark" alt="apexv2" /> </p>
 
